@@ -1,4 +1,45 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 📝 Next.js Todo App
+
+A modern and responsive Todo App built with **Next.js**.  
+This project helped me learn modern React ecosystem tools like **TanStack Query**, **Zod**, and **shadcn/ui** while building a clean and user-friendly task management app.
+
+---
+
+## 🚀 Features
+
+- ✅ Add, update, and delete todos
+- ⚡ Fast server state management with TanStack Query
+- 🛡️ Form validation using Zod
+- 🎨 Beautiful UI using shadcn/ui
+- 📱 Responsive and clean design
+- 🔄 Real-time UI updates
+
+---
+
+## 🛠️ Tech Stack
+
+- **Next.js**
+- **React.js**
+- **TanStack Query**
+- **Zod**
+- **shadcn/ui**
+- **Tailwind CSS**
+
+---
+
+## 📚 What I Learned
+
+- Managing server state efficiently using TanStack Query
+- Form validation with Zod
+- Building reusable UI components with shadcn/ui
+- Creating modern UI with Tailwind CSS
+- Better folder structure and component organization in Next.js
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
 
 ## Getting Started
 
